@@ -1,0 +1,3 @@
+Primera nota personal: Aprendiendo archivos Python.
+Segunda nota personal: Realizare el archivo de texto.
+Tercera nota personal: Subiré este código para mi tarea.
